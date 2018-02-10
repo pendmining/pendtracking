@@ -2,10 +2,10 @@
 
 Tracking software for almost any crypto currency
 
-<img src="https://bitcoin.org/img/icons/opengraph.png" width="100">
-<img src="http://files.coinmarketcap.com.s3-website-us-east-1.amazonaws.com/static/img/coins/200x200/litecoin.png" width="100">
-<img src="http://files.coinmarketcap.com.s3-website-us-east-1.amazonaws.com/static/img/coins/200x200/monero.png" width="100">
-<img src="http://files.coinmarketcap.com.s3-website-us-east-1.amazonaws.com/static/img/coins/200x200/ethereum.png" width="100">
+<img align="left" src="https://bitcoin.org/img/icons/opengraph.png" width="100">
+<img align="left" src="http://files.coinmarketcap.com.s3-website-us-east-1.amazonaws.com/static/img/coins/200x200/litecoin.png" width="100">
+<img align="left" src="http://files.coinmarketcap.com.s3-website-us-east-1.amazonaws.com/static/img/coins/200x200/monero.png" width="100">
+<img align="left" src="http://files.coinmarketcap.com.s3-website-us-east-1.amazonaws.com/static/img/coins/200x200/ethereum.png" width="100">
 <img src="http://xospiritus.com/wp-content/uploads/2013/11/and-many-more-JPEG.jpg" width="100">
 
 Works on **Mac, Ubuntu and Windows**
